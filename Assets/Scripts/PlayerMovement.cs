@@ -5,11 +5,13 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private float jumpForce = 10f; // New variable for jump strength
+    [SerializeField] private float jumpForce = 10f; 
     
     [Header("Ground Check")]
-    [SerializeField] private Transform groundCheck; // Drag a small, empty child object here
+    [SerializeField] private Transform groundCheck; 
     [SerializeField] private LayerMask groundLayer;  // Set this to your ground layer in Inspector
+
+    [SerializeField] private Animator _animator;
     private bool isGrounded;
     private const float groundCheckRadius = 0.1f; // Radius for the ground check
 
@@ -57,12 +59,27 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+
+        bool isMoving = Mathf.Abs(currentInputVector.x) > 0.01f;
+        _animator.SetBool("isGrounded", isGrounded);
+        // The C# equivalent of your pseudo-code:
+        if (isMoving) 
+        {
+            _animator.SetBool("isRolling", true);
+        }
+        else 
+        {
+            _animator.SetBool("isRolling", false);
+        }
+        
         // Apply horizontal movement based on input
         float targetXVelocity = currentInputVector.x * moveSpeed;
         float currentYVelocity = player.linearVelocity.y;
         
         Vector2 targetVelocity = new Vector2(targetXVelocity, currentYVelocity);
         player.linearVelocity = targetVelocity;
+
+    
     }
 
     // --- New Jumping Methods ---
@@ -81,6 +98,8 @@ public class PlayerMovement : MonoBehaviour
         {
             // Set the vertical velocity instantly to the jump force
             player.linearVelocity = new Vector2(player.linearVelocity.x, jumpForce);
+            // Set the Trigger for the animation
+            _animator.SetTrigger("Jump");
         }
     }
 }
