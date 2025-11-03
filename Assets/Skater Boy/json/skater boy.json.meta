@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a0d499a6cb4e4a4884fe0f385fc4681
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137207
+  packageName: Skater Boy Character
+  packageVersion: 1.0
+  assetPath: Assets/Skater Boy/json/skater boy.json
+  uploadId: 287909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 025f667394b5d53498bcb96baa082aec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137207
+  packageName: Skater Boy Character
+  packageVersion: 1.0
+  assetPath: Assets/Skater Boy/json/skater boy_SkeletonData.asset
+  uploadId: 287909
