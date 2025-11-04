@@ -1,0 +1,454 @@
+
+skater boy.png
+size: 785,4003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm l
+  rotate: false
+  xy: 643, 3680
+  size: 115, 321
+  orig: 115, 321
+  offset: 0, 0
+  index: -1
+arm r
+  rotate: false
+  xy: 519, 3175
+  size: 115, 321
+  orig: 115, 321
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 597
+  size: 243, 337
+  orig: 243, 337
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 3498
+  size: 639, 503
+  orig: 639, 503
+  offset: 0, 0
+  index: -1
+collar back
+  rotate: false
+  xy: 677, 497
+  size: 97, 46
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 636, 3318
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+eyeball-l
+  rotate: false
+  xy: 677, 618
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+eyeball-r
+  rotate: false
+  xy: 636, 3218
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+eyebrow l
+  rotate: false
+  xy: 759, 931
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+eyebrow r
+  rotate: false
+  xy: 210, 57
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+face hair
+  rotate: false
+  xy: 247, 684
+  size: 272, 250
+  orig: 272, 250
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 356
+  size: 261, 239
+  orig: 261, 239
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: false
+  xy: 2, 130
+  size: 242, 224
+  orig: 242, 224
+  offset: 0, 0
+  index: -1
+hand-holding
+  rotate: false
+  xy: 415, 15
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2962
+  size: 515, 534
+  orig: 515, 534
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 597, 1289
+  size: 186, 119
+  orig: 186, 119
+  offset: 0, 0
+  index: -1
+jacket l
+  rotate: false
+  xy: 404, 406
+  size: 102, 276
+  orig: 102, 276
+  offset: 0, 0
+  index: -1
+jacket r
+  rotate: false
+  xy: 265, 384
+  size: 137, 298
+  orig: 137, 298
+  offset: 0, 0
+  index: -1
+leg l
+  rotate: false
+  xy: 521, 693
+  size: 135, 241
+  orig: 135, 241
+  offset: 0, 0
+  index: -1
+leg r
+  rotate: false
+  xy: 643, 3446
+  size: 135, 232
+  orig: 135, 232
+  offset: 0, 0
+  index: -1
+mouth a
+  rotate: false
+  xy: 519, 2966
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+mouth b
+  rotate: false
+  xy: 584, 28
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+mouth c
+  rotate: false
+  xy: 677, 545
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+mouth d
+  rotate: false
+  xy: 707, 50
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+mouth e
+  rotate: false
+  xy: 2, 2
+  size: 206, 126
+  orig: 206, 126
+  offset: 0, 0
+  index: -1
+mouth f
+  rotate: false
+  xy: 688, 3131
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+mouth g
+  rotate: false
+  xy: 674, 3180
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 658, 802
+  size: 99, 147
+  orig: 99, 147
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 636, 3175
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+pupil l
+  rotate: false
+  xy: 210, 79
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+pupil r
+  rotate: false
+  xy: 740, 633
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+shoe l
+  rotate: false
+  xy: 508, 441
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+shoe l up
+  rotate: false
+  xy: 514, 21
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+shoe r
+  rotate: false
+  xy: 601, 2425
+  size: 155, 72
+  orig: 155, 72
+  offset: 0, 0
+  index: -1
+shoe r up
+  rotate: false
+  xy: 688, 3084
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+skateboard/board-side
+  rotate: false
+  xy: 2, 936
+  size: 596, 96
+  orig: 596, 96
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-a
+  rotate: false
+  xy: 2, 1648
+  size: 603, 236
+  orig: 603, 236
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-b
+  rotate: false
+  xy: 2, 1222
+  size: 593, 186
+  orig: 593, 186
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-c
+  rotate: false
+  xy: 2, 2140
+  size: 603, 252
+  orig: 603, 252
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-d
+  rotate: false
+  xy: 2, 2678
+  size: 597, 282
+  orig: 597, 282
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-e
+  rotate: false
+  xy: 2, 1886
+  size: 603, 252
+  orig: 603, 252
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-f
+  rotate: false
+  xy: 2, 1034
+  size: 593, 186
+  orig: 593, 186
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-g
+  rotate: false
+  xy: 2, 1410
+  size: 603, 236
+  orig: 603, 236
+  offset: 0, 0
+  index: -1
+skateboard/skateboard-h
+  rotate: false
+  xy: 2, 2394
+  size: 597, 282
+  orig: 597, 282
+  offset: 0, 0
+  index: -1
+skateboard/wheel-side
+  rotate: false
+  xy: 658, 698
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00000
+  rotate: false
+  xy: 597, 1120
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00001
+  rotate: false
+  xy: 600, 951
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00002
+  rotate: false
+  xy: 601, 2837
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00003
+  rotate: false
+  xy: 601, 2668
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00004
+  rotate: false
+  xy: 601, 2499
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00005
+  rotate: false
+  xy: 607, 2256
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00000
+  rotate: false
+  xy: 607, 2087
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00001
+  rotate: false
+  xy: 607, 1918
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00002
+  rotate: false
+  xy: 607, 1749
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00003
+  rotate: false
+  xy: 607, 1580
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00004
+  rotate: false
+  xy: 607, 1411
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00005
+  rotate: false
+  xy: 246, 187
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00006
+  rotate: false
+  xy: 246, 18
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00007
+  rotate: false
+  xy: 415, 237
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00008
+  rotate: false
+  xy: 415, 68
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00009
+  rotate: false
+  xy: 508, 515
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00010
+  rotate: false
+  xy: 584, 272
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00011
+  rotate: false
+  xy: 584, 103
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+vfx/smoke right/smoke right_00012
+  rotate: false
+  xy: 519, 3006
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1

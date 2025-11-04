@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb35e3bdbe3cd2b429b2ef290df0d70f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137207
+  packageName: Skater Boy Character
+  packageVersion: 1.0
+  assetPath: Assets/Skater Boy/json/skater boy.atlas.txt
+  uploadId: 287909
